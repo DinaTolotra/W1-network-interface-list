@@ -8,6 +8,7 @@ Program to list network interfaces and their ip address on a unix based system.
  - unistd.h: for write(); (man write(2))
 All of this dependencies are part of C standard lib.
 ### Build
+ - make
  - gcc: for compilation
  - ar: from binutils for static lib creation
 ## Usage
