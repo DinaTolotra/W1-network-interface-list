@@ -16,7 +16,7 @@ All of this dependencies are part of C standard lib.
 make build/ip  
 ./build/ip  
 ```
-### Reference
+## Reference
  - (book)   Hands-on network programming with C - by Lewis Van Winkle
  - (manual) man getifaddrs(3)
  - (manual) man freeifaddrs(3)
@@ -26,3 +26,5 @@ make build/ip
  - (doc) [freeifaddrs.md](./manual/getifaddrs.md)
  - (doc) [inet_ntop.md](./manual/inet_ntop.md)
  - (doc) [write.md](./manual/write.md)
+## See also
+ - next week: [simplified http server](https://github.com/DinaTolotra/W2-simplified-http-server)
